@@ -1,51 +1,5 @@
 <template>
   <div class="wrapper" ref="wrapper">
-    <ul class="content">
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-      <li>11</li>
-    </ul>
   </div>
 </template>
 
@@ -72,10 +26,4 @@ export default {
 </script>
 
 <style scoped>
-.wrapper {
-  height: 200px;
-  background-color: red;
-  overflow: hidden;
-  /* overflow-y: scroll; */
-}
 </style>
