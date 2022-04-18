@@ -16,14 +16,10 @@
 13. postcss.config.js移动端适配问题
 
 # Home page
-![image](https://user-images.githubusercontent.com/96003103/163818926-0223b13c-d636-4221-a5cf-bebd41225008.png)
+![image height="100px"](https://user-images.githubusercontent.com/96003103/163818926-0223b13c-d636-4221-a5cf-bebd41225008.png)
 
 # Detail
-![image](https://user-images.githubusercontent.com/96003103/163818980-47769cf4-95cd-46cd-b6de-dce18563fa5f.png)
+![image height="100px"](https://user-images.githubusercontent.com/96003103/163818980-47769cf4-95cd-46cd-b6de-dce18563fa5f.png)
 
 # Cart
-![image](https://user-images.githubusercontent.com/96003103/163819275-6cf142c2-dfce-4b9c-8820-3eee4e4ba391.png)
-
-# More details
-1. 通过vue-router进行路由导航
-2. 
+![image height="100px"](https://user-images.githubusercontent.com/96003103/163819275-6cf142c2-dfce-4b9c-8820-3eee4e4ba391.png)
