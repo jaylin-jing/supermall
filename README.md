@@ -16,10 +16,9 @@
 13. postcss.config.js移动端适配问题
 
 # Home page
-![image height="100px"](https://user-images.githubusercontent.com/96003103/163818926-0223b13c-d636-4221-a5cf-bebd41225008.png)
+<img src="https://user-images.githubusercontent.com/96003103/163818926-0223b13c-d636-4221-a5cf-bebd41225008.png" width="20%"></img>
 
 # Detail
-![image height="100px"](https://user-images.githubusercontent.com/96003103/163818980-47769cf4-95cd-46cd-b6de-dce18563fa5f.png)
-
+<img src="https://user-images.githubusercontent.com/96003103/163818980-47769cf4-95cd-46cd-b6de-dce18563fa5f.png" width="20%"></img>
 # Cart
-![image height="100px"](https://user-images.githubusercontent.com/96003103/163819275-6cf142c2-dfce-4b9c-8820-3eee4e4ba391.png)
+<img src="https://user-images.githubusercontent.com/96003103/163819275-6cf142c2-dfce-4b9c-8820-3eee4e4ba391.png" width="20%"></img>
